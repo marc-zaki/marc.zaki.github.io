@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Marc Zaki
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marc
+last_name: Zaki
 
 # Status emoji
 status:
@@ -17,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student at MSA - Modern University for Modern Sciences and Arts
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
